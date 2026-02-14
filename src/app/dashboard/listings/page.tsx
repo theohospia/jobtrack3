@@ -183,7 +183,7 @@ function SaaSIcon() {
   );
 }
 
-export default function BrowsePage() {
+export default function ListingsPage() {
   const [activeTab, setActiveTab] = useState("browse");
 
   return (
