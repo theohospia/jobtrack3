@@ -755,7 +755,7 @@ function OnboardingContent() {
               </p>
 
               <div className="space-y-4">
-                <Link href="/dashboard/listings">
+                <Link href="/dashboard">
                   <Button
                     size="lg"
                     className="w-full bg-[#4f5dd3] hover:bg-[#3d4bc1] text-white py-6 text-lg rounded-xl"
@@ -764,7 +764,7 @@ function OnboardingContent() {
                     <ArrowRight className="ml-2 h-5 w-5" />
                   </Button>
                 </Link>
-                <Link href="/dashboard/listings">
+                <Link href="/dashboard">
                   <Button
                     size="lg"
                     variant="outline"
